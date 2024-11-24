@@ -1,7 +1,7 @@
 h1{
-    color: red;
+    color: rgb(0, 0, 0);
     font-size: 50px;
 }
 body{
-    background-color: navy;
+    background-color: rgb(107, 159, 176);
 }
